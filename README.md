@@ -28,6 +28,16 @@ Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affor
 ---
 
 ## 🌐 Live Website
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gulabandtaxi.github.io/Gulaband-Taxi/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+
 
 👉 [Visit Website](https://<your-username>.github.io/gulaband-taxi)
 
