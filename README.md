@@ -1,50 +1,88 @@
+body {
+  font-family: sans-serif;
+  background: #fff7f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-align: center;
+}
 
+header {
+  background: #ff0080;
+  color: white;
+  padding: 20px;
+}
 
-# 🚕 Gulaband Taxi
+.booking-form {
+  padding: 20px;
+}
 
-**Ride with Royalty – Fast, Safe & Desi**
+.booking-form input, .booking-form select, .booking-form button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 300px;
+}
 
-Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affordable rides. Whether you're headed to the **airport**, **railway station**, **market**, or a **wedding**, Gulaband Taxi is just a call away!
+.booking-form button {
+  background: #ff0080;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
 
----
+.contact {
+  background: #fff0f5;
+  padding: 20px;
+}
 
-## 🌟 Key Features
+footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+}
+body {
+  font-family: sans-serif;
+  background: #fff7f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-align: center;
+}
 
-- ✅ 24/7 Service
-- 👨‍✈️ Trained & Courteous Drivers
-- 🧼 Clean & Sanitized Cabs
-- 💰 Affordable Flat Rates
-- 🏞️ Local Sightseeing & Outstation Trips
+header {
+  background: #ff0080;
+  color: white;
+  padding: 20px;
+}
 
----
+.booking-form {
+  padding: 20px;
+}
 
-## 📞 Contact Us
+.booking-form input, .booking-form select, .booking-form button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 300px;
+}
 
-- 📱 +91 94129 99162  
-- 📱 +91 82734 05335  
-- 📱 +91 78956 13977  
-- 📧 gulabandtaxi@gmail.com  
-- 💬 [WhatsApp](https://wa.me/919412999162)  
-- 📸 [Instagram](https://www.instagram.com/gulaband_taxi)
+.booking-form button {
+  background: #ff0080;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
 
----
+.contact {
+  background: #fff0f5;
+  padding: 20px;
+}
 
-## 🌐 Live Website
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://gulabandtaxi.github.io/Gulaband-Taxi/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
-
-
-👉 [Visit Website](https://<your-username>.github.io/gulaband-taxi)
-
----
-
-© 2025 Gulaband Taxi. All rights reserved.
-
-
+footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+}
