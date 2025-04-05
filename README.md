@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="images/logo.png" alt="Gulaband Taxi Logo" height="120" />
-</p>
-![Gulaband Taxi Logo](images/logo.png)
+
 
 # 🚕 Gulaband Taxi
 
