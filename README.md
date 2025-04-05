@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/logo.png" alt="Gulaband Taxi Logo" height="120" />
+</p>
+![Gulaband Taxi Logo](images/logo.png)
+
 # 🚕 Gulaband Taxi
 
 **Ride with Royalty – Fast, Safe & Desi**
@@ -44,7 +49,4 @@ Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affor
 ---
 
 © 2025 Gulaband Taxi. All rights reserved.
-<header style="text-align: center; padding: 20px;">
-  <img src="images/logo.png" alt="Gulaband Taxi Logo" style="height: 120px;" />
-</header>
 
