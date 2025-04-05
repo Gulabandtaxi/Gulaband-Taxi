@@ -46,4 +46,17 @@ Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affor
 ---
 
 © 2025 Gulaband Taxi. All rights reserved.
+<head>
+  <style>
+    body {
+      background-color: #f5f5f5; /* Yeh color code aapke pasand ka ho sakta hai */
+      /* background-image: url('images/bg.jpg'); */ /* Agar aap image use karna chahte hain */
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      font-family: 'Segoe UI', sans-serif;
+    }
+  </style>
+</head>
+
 
