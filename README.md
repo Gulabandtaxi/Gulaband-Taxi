@@ -8,7 +8,19 @@ Delhi To Pauri Daily Service Booking Now
 
 Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affordable rides. Whether you're headed to the **airport**, **railway station**, **market**, or a **wedding**, Gulaband Taxi is just a call away!
 
----
+
+📍 Popular Routes We Cover
+Delhi ⇄ Pauri (Daily)
+
+Kotdwar ⇄ Haridwar
+
+Rishikesh ⇄ Dehradun
+
+Local Pauri Sightseeing
+
+Char Dham Yatra (Kedarnath, Badrinath, Gangotri, Yamunotri)
+
+
 
 ## 🌟 Key Features
 
@@ -16,8 +28,17 @@ Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affor
 - 👨‍✈️ Trained & Courteous Drivers
 - 🧼 Clean & Sanitized Cabs
 - 💰 Affordable Flat Rates
-- 🏞️ Local Sightseeing & Outstation Trips
+✅ Local and Outstation Taxi Booking
 
+🏨 Hotel Booking Services
+
+🗺️ Customized Tour Packages
+
+💰 Online Fare Estimator
+
+📲 Easy Booking with WhatsApp and Call Support
+
+⭐ Testimonials and Gallery Section
 ---
 
 ## 📞 Contact Us
@@ -29,20 +50,22 @@ Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affor
 - 💬 [WhatsApp](https://wa.me/919412999162)  
 - 📸 [Instagram](https://www.instagram.com/gulaband_taxi)
 
----
+🚘 Our Fleet
+🚗 Sedan (Dzire, Etios)
 
-## 🌐 Live Website
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://gulabandtaxi.github.io/Gulaband-Taxi/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
+🚙 SUV (Innova, Ertiga, Bolero)
 
+🚐 Tempo Traveller (for group tours)
 
----
+🎉 Luxury cars for weddings/events
+
+📦 Our Packages
+💼 Corporate Travel
+
+🎒 Tour & Travel Packages
+
+👰 Wedding & Event Transportation
+
+✈️ Airport / Railway Station Pickup & Drop
 
 © 2025 Gulaband Taxi. All rights reserved.
