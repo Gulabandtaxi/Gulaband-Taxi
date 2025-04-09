@@ -20,8 +20,6 @@ Local Pauri Sightseeing
 
 Char Dham Yatra (Kedarnath, Badrinath, Gangotri, Yamunotri)
 
-
-
 ## 🌟 Key Features
 
 - ✅ 24/7 Service
@@ -49,7 +47,40 @@ Char Dham Yatra (Kedarnath, Badrinath, Gangotri, Yamunotri)
 - 📧 gulabandtaxi@gmail.com  
 - 💬 [WhatsApp](https://wa.me/919412999162)  
 - 📸 [Instagram](https://www.instagram.com/gulaband_taxi)
+📅 Why Choose Gulaband Taxi?
+🕐 Punctuality – Time is money, and we respect both.
 
+🛡️ Safety First – Verified drivers and GPS-enabled cars.
+
+📞 Easy Communication – Talk directly to our local team.
+
+💼 Corporate Friendly – Invoice-ready, professional service.
+
+🌄 Uttarakhand Experts – We know the hills like the back of our hand.
+
+📍 Service Locations
+We proudly serve across:
+
+Delhi NCR
+
+Pauri Garhwal
+
+Haridwar, Rishikesh
+
+Kotdwar, Lansdowne
+
+Dehradun
+
+Char Dham Circuit
+
+Planning a trip outside these areas? Contact us and we'll make it happen!
+
+🔄 Cancellation & Refund Policy
+❌ Free cancellation up to 6 hours before pickup
+
+⚠️ 50% refund for last-minute cancellations
+
+✅ Full refund on service delays or vehicle unavailability
 🚘 Our Fleet
 🚗 Sedan (Dzire, Etios)
 
