@@ -1,13 +1,6 @@
 
 # 🚕 Gulaband Taxi
-
-**Ride with Royalty – Fast, Safe & Desi**
-
-Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affordable rides. Whether you're headed to the **airport**, **railway station**, **market**, or a **wedding**, Gulaband Taxi is just a call away!
-
----
-
-# 🚕 Gulaband Taxi
+Delhi To Pauri Daily Service Booking Now
 
 **Ride with Royalty – Fast, Safe & Desi**
 
