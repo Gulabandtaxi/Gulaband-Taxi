@@ -56,7 +56,7 @@ Char Dham Yatra (Kedarnath, Badrinath, Gangotri, Yamunotri)
 
 🌄 Uttarakhand Experts – We know the hills like the back of our hand.
 
-📍 Service Locations
+📍Service Locations
 We proudly serve across:
 
 Delhi NCR
