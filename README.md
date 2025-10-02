@@ -9,7 +9,7 @@ Delhi To Pauri Daily Service Booking Now
 - 📱 +91 82734 05335  
 - 📧 gulabandtaxi@gmail.com  
 - 💬 [WhatsApp](https://wa.me/919412999162)  
-- 📸 [Instagram](https://www.instagram.com/gulaband_taxi)
+- 📸 [Instagram]( https://www.instagram.com/gulaband_taxi )
 **Ride with Royalty – Fast, Safe & Desi**
 
 Gulaband Taxi is your trusted local cab service offering 24/7 reliable and affordable rides. Whether you're headed to the **airport**, **railway station**, **market**, or a **wedding**, Gulaband Taxi is just a call away!
