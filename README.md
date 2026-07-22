@@ -5,8 +5,7 @@
 Delhi To Pauri Daily Service Booking Now
 ## 📞 Contact Us
 
-- 📱 +91 94129 99162  
-- 📱 +91 82734 05335  
+- 📱 +91 94129 99162   
 - 📧 gulabandtaxi@gmail.com  
 - 💬 [WhatsApp](https://wa.me/919412999162)  
 - 📸 [Instagram]( https://www.instagram.com/gulaband_taxi )
